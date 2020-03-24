@@ -1,4 +1,4 @@
-# FB-Messenger-Bot-with-Python-and-Dialog-Flow-1
+# FB-Messenger-Bot-with-Python-and-Dialog-Flow
 
 Python code for creating chatbot.
 
